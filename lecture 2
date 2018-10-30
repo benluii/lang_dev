@@ -1,0 +1,90 @@
+lecture 2
+
+nature vs nurture for language learning
+- nativism
+- empiricism 
+
+- how do we study language development?
+    - experiment design
+        - longitudinally
+            - following a group of kids from x age to x+y age
+        - cross-sectionally
+            - group of x age vs group of x+y age where the first and second groups have no connections
+        - observational
+            - observe participants in natural environment, no controls
+            - observations are restricted to what the participant decides to do
+        - correlational
+            - observe 2 groups with a relationship between them (kids and their parents)
+            - problems: difficult to know why a correlation exists, or if there are environmental factors
+            - use a control group to fix this
+    - production
+        - natural production
+            - just observing what participants say/output
+        - ellicited production 
+            - wug test
+        - in general difficult to analyze when subjects are very young
+            - babies produce a lot of gibberish
+    - comphrehension
+        - questions with point/act-out responses to test comphrehension
+    - MRI/fMRI
+    - computational models
+        - model a theory, feed input, compare output with real life output to validate theory
+
+Phonology
+- how do we produce speech?
+    - for CONSONANTS - by modifying:
+        - length of vocal tract
+        - location of constriction
+            - known as `place of articulation`
+            - lips (p, b, f)
+            - roof of mouth (t, s, d)
+            - back of mouth (h, k g)
+        - type of constriction
+            - known as `manner of articulation`
+            - complete (p, t, k)
+            - partial (s, f, z)
+            - very little (w, y)
+        - vibrating vocal chords
+            - known as `voicing`
+    - for VOWELS - by modifying:
+        - height of tongue
+            - close
+            - close-mid
+            - open-mid
+            - open
+        - frontness of tongue
+            - back
+            - central
+            - front
+        - roundedness of lips 
+
+- how do we talk about speech sounds?
+    - different languages use different writing systems
+        - some of these systems' spellings don't make phonetic sense (i.e. the sounding of `enough`)
+    - solution: international phonetic alphabet (IPA)
+    - IPA table is organized by:
+        constonants: manner (left hand column), place (top row), voicing (symbols within a box)
+        vowels: height, place, rounding
+    - english only uses a small subset of total sounds
+    - phones: sounds that are acoustically different
+        - phonemes: meaningful difference (in relation to the language)
+        - allophones: no meaningful difference
+
+- languages differ by:
+    - their inventory of sounds (i.e. phones) they use 
+    - their division of phones -> phonemes vs allophones (which phones are meaningful)
+    - their phonotactics (rules for defining legal sound structures)
+        - english allows 8
+            - V, CV, VC, [C][C][C][V][C][C][C]
+    - prosody
+        - pattern of stress and intonation
+        - divides languages into 3 rhythmic classes
+            - syllabic (syllable timed)
+                - defined by fairly equally spaced syllables
+            - stress (stress timed)
+                - defined by fairly equally spaced stress
+            - mora
+
+- contraints of language sounds
+    - syllable construction
+    - constonant sequencing (phonotatic) 

@@ -1,0 +1,40 @@
+Lecture 6
+
+Learning Words
+
+- before you know any words, how do you know what is a word?
+    - since words are almost always spoken in sentences
+    - in written form, words are space deliminated
+    - in vocal form, there's no audible delimination 
+        - gaps in acoustic do exist, but they don't line up with the word boundaries
+        - known as SEGMENTATION PROBLEM
+
+STUDY: segmenting words from fluent speech 
+[Jusczyk & Aslin (1995)]
+- experiment familiarized babies with a string of words, then played certain words in the sentence vs words not in sentences
+- by measuring how long they looked at the side playing the words, one could measure whether or not they recognized the word 
+- by 7.5 months, they appeared to notice the word segmentation
+    - only with strong-weak syllable stressed words
+    - could not recognize weak-strong syllable stressed words 
+- not at 6 months, unless
+    - the word is preceded by their name
+    - experiment was done again with the word always preceded by their name
+    - then measured whether or not they recognized the word with the audio test
+    - turns out they can! - key is the strong cue as a predecessor 
+    - not sure why
+        - how did they learn their name as a word? guess is that name is usually spoken in isolation
+
+- 7.5month old quebecois babies have weak-strong syllable bias
+
+- role of phonotactics in word segmentation
+    - rare sequences (i.e. n-g, f-h) within english provide good cues for segmenting words (ex. bean-gaffe-hold)
+    - doesn't always work (ex. gruff-tove-now)
+        - f-t, v-n sequences are quite common, so doesn't provide a good cue to segment words
+    - experiment revealed that this was indeed another way babies identified words 
+
+- by 10.5 months babies can segment words with weak-strong, and less phonotactic patterns 
+
+Q: how do babies learn syllable stress patterns? phonotactic patterns?
+    - i.e. how did they know f-t, v-n sequences are common if they didn't know what words are?
+A: possible answer - some of this is learnt by hearing words in isolation (7% of total words)
+    

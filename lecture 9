@@ -1,0 +1,67 @@
+Morphology and Syntax
+
+- morphenes: smallest unit of meaning 
+    - free morphenes: unit of meaning that can exist on its own
+    - bound morphenes: unit of meaning that cannot exist on its own
+         - only lending meaning when combined with other words (e.g. 's', 'ing')
+         - types of bound morphenes:
+            - inflectional: does not change the category of the word (e.g. 's', 'd')
+            - derivational: 
+        - NOTE: when pronouncing the morphene 'ed', there are discrepencies
+            - same morphen, different pronounciation
+            - walkED -> walk + t
+            - draggED -> drag + d
+            - plantED -> plant + ed
+        - NOTE: English has much simpler morphology compared to other languages
+
+- syntax: discrete combinatorial system
+    - theres a finite number of elements (words)
+    - combined and permutated to create an infinite number of phrases (sentences)
+    - rules of combination are unique to the language 
+    - new words and morphenes must be learnt, but new sentences can be understood on the fly
+
+- categories of words
+    - open-class (content)
+        - nouns
+        - verbs 
+        - adjectives
+    - closed-class (function)
+        - determiners (a, an, the)
+        - pronouns (this, those, he, she, you)
+        - auxiliaries (is, have, can, should)
+        - prepositions (off, by, on, below)
+
+- some rules:
+    - sentence -> NPVP
+    - noun phrase -> (det)(adj)N
+    - verb phrase -> V(NP)
+
+    - prescriptive rules
+        - dictates form and style
+        - (i.e. no prepositions at the end of sentences)
+    - descriptive rules
+        - dictates meaning and comprehension
+
+    - location of words in the structure matters (in English)
+        - languages rich in morphology tend to have more flexible word orders
+        - languages poor in morphology tend to have less flexbile word orders
+        - what the child needs to learn about morphosyntax varies across languages 
+        - ALSO: grouping order in structures change meaning (see slide about bunny with crayon)
+
+    - forming questions can also be done just by switching word locations
+
+- children start to combine words around 18-24months
+Q: what do they know about lang structure beyond individual words? How do we know what they know?
+
+A:  - infants can distinguish open vs closed class words at birth
+    - how do they do they do this?
+    - maybe on the acoustics of the words 
+    - STUDY: Shi et al.. 1999
+        - stimuli natural tokens of function or content words
+        - infants were habituated to one of the 2 lists
+        - control group then heard new words from same category
+        - experiment group heard new words from other category 
+        - used HAS to determine whether or not infant percieved a difference 
+
+Q: what do adults know?
+A: 

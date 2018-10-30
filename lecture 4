@@ -1,0 +1,57 @@
+lecture 4
+
+Categorical perception
+
+- to test older infants (6-12months), we use operant conditioning 
+- VOT (voice onset time) ~= voicing
+
+- when we only hear audible changes in "chunks", not smoothly
+- seems like babies only notice categorical changes as well
+    - specifically english categorical differences (even with non-english born babies) [when it comes to voicing]
+        - if the categorical difference is a result of not-voicing (i.e. place) then no alignment with english categories
+    - initially thought to mean that humans are born with a specific speech module
+    - however further experiments revealed that non-speech sounds are also percieved categorically
+        - also applies to visual language stimuli!
+        - also applies to non-language stimuli! (i.e. faces)
+            - human babies can id different humans (of other races) and different monkeys
+            - same with monkey babies
+            - this is diminished with age
+                - only tested with primates 
+    - furthermore, animals also seem to have categorical perception for sounds 
+
+STUDY: Categorical perception in infants
+- Eimas (1971)
+- done with 1month and 4month olds
+- HAS technique to determine whether or not infant heard a change
+- 4 groups
+    - threshold for category is 30ms
+    - group 1 heard 20ms and 40ms voicing 
+    - group 2 heard -20ms and 0ms voicing
+    - group 3 heard 60ms and 80ms voicing
+    - group 4 was a control group
+
+Q: why does age diminish ability to detect changes?
+- by end of 1st year, narrowing happens (tuning)
+    - infants can no longer hear non-meaningful contrasts
+- theory 1: meaning (tuning by semantics)
+    - infants learn which sounds are important due to parent's language use
+    - i.e. they slowly learn to not care about the auditory differences by using semantic differences 
+    - problem: babies develop this tuning before they are able to understand enough semantic differences 
+- theory 2: statistical (tuning by distribution)
+    - infants track the pattern/distribution of sounds they hear 
+        - i.e. how often do what kinds of sounds occur
+        - the way researchers came to this theory is by plotting out sound frequency over VOT (look at slides)
+        - the peak of this distribution loosely define the categorical cutoff
+        - maybe babies percieve this?
+    - do infants do this subconciously? is this actually what they are doing?
+    - an experiment was done (check slides) that showed a couple minutes of training could re-calibrate a baby's ability
+    to perceive categorical differences
+
+        - STUDY: bimodal vs unimodal sound distribution
+            - 6~8months
+            - bimodal babies continued to be able to hear the difference in voicing
+            - unimodal babies could not
+
+    - tens of minutes of training required for human adults
+    - this training was purely auditory, but later studies show that socializing the stimuli increases this effect 
+
