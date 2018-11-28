@@ -1,14 +1,14 @@
 Morphology and Syntax
 
-- morphenes: smallest unit of meaning 
-    - free morphenes: unit of meaning that can exist on its own
-    - bound morphenes: unit of meaning that cannot exist on its own
+- morphemes: smallest unit of meaning 
+    - free morphemes: unit of meaning that can exist on its own
+    - bound morphemes: unit of meaning that cannot exist on its own
          - only lending meaning when combined with other words (e.g. 's', 'ing')
-         - types of bound morphenes:
+         - types of bound morphemes:
             - inflectional: does not change the category of the word (e.g. 's', 'd')
-            - derivational: 
-        - NOTE: when pronouncing the morphene 'ed', there are discrepencies
-            - same morphen, different pronounciation
+            - derivational: changes the category of the word (e.g. ness, ment)
+        - NOTE: when pronouncing the morpheme 'ed', there are discrepencies
+            - same morpheme, different pronounciation
             - walkED -> walk + t
             - draggED -> drag + d
             - plantED -> plant + ed
@@ -18,18 +18,20 @@ Morphology and Syntax
     - theres a finite number of elements (words)
     - combined and permutated to create an infinite number of phrases (sentences)
     - rules of combination are unique to the language 
-    - new words and morphenes must be learnt, but new sentences can be understood on the fly
+    - new words and morphemes must be learnt, but new sentences can be understood on the fly
 
 - categories of words
     - open-class (content)
         - nouns
         - verbs 
         - adjectives
+            - named as such because its easy to add new words to this class
     - closed-class (function)
         - determiners (a, an, the)
         - pronouns (this, those, he, she, you)
         - auxiliaries (is, have, can, should)
         - prepositions (off, by, on, below)
+            - named as such because its hard to add new words to this class
 
 - some rules:
     - sentence -> NPVP
@@ -56,7 +58,7 @@ Q: what do they know about lang structure beyond individual words? How do we kno
 A:  - infants can distinguish open vs closed class words at birth
     - how do they do they do this?
     - maybe on the acoustics of the words 
-    - STUDY: Shi et al.. 1999
+    - STUDY: major word categories, function vs content words in isolation. Shi et al.. 1999
         - stimuli natural tokens of function or content words
         - infants were habituated to one of the 2 lists
         - control group then heard new words from same category

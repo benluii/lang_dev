@@ -1,18 +1,25 @@
-
-- coincident vs non-coincident items to test whether or not infants could detect prosodic groups
+Prosodic Bootstrapping
+    - describes the correlation between prosody and syntactic structure
+STUDY: parsing phrases
+    - used coincident vs non-coincident items to test whether or not 9month old infants could detect prosodic groups
     - the difference between the 2 are placement of pauses
-    - this is independent of language, key is that there are pitch and sound changes that suggest an ideal pauses
+    - coincident: pause inserted at phrase boundary
+    - non-coincident: pause inserted in middle of phrase 
+    - this is independent of language, key is that there are pitch and sound changes that suggest an ideal pause
     placement
     - this applies to music too
+    - results:  9month olds listened longer to coincident versions
+                4.5month olds listened longer to coincident versions iff in IDS
 
 - function words come either before or after content words (in most languages)
-- turns out theres a correlation between function+content word order and overal word order of the language
+- turns out theres a correlation between function+content word order and overall word order of the language
 - in SVO languages -> function word comes BEFORE content words
 - in SOV languages -> function word comes AFTER content words
 - since there are acoustic differences between function and content words, this helps them learn the overall
 word order
 
-- STUDY: japanese and english infants were familiarized with a string of function-like + content-like words
+- STUDY: basic word order
+    - Japanese and English infants were familiarized with a string of function-like + content-like words
     - (e.g. the blick the blick the blick the blick ... ...)
     - then asked which word the infant thought came first
     - japanese infants thought the order was "blick the"
@@ -24,7 +31,7 @@ word order
     - infants have cues to:
         - discriminate function vs content words
             - word order 
-        - prosodic groups that correlate to grammatacal grouping
+        - prosodic groups that correlate to grammatical grouping
 
 PRODUCTION
 
@@ -36,13 +43,36 @@ PRODUCTION
     - why?
         - we know kids know the difference between function and content words
         - but maybe they can't pick them out in fluent speech? NOPE
-            - STUDY: 13 month olds were given legit function+content word pairs (the breek, his breek, etc) and
-            illegal function+content word pairs (kuh breek, ris breek etc.)
+
+            - STUDY: perception of function morphemes in phrases
+                - 13 month olds were given legit function+content word pairs (the breek, his breek, etc) and
+                illegal function+content word pairs (kuh breek, ris breek etc.)
                 - turns out they prefer the legit version
                 - any younger, and theres no preference 
             - STUDY: 18 month olds can even tell whether or not the function word was the right one
-                - i.e. is-ing vs can-ing 
+                - i.e. she IS drinkING vs she CAN drinkING
+
         - maybe producing the complete string is too difficult
             - kids prefer strong words/syllables 
-            - this is also mostly for english speaking kids, since function morphenes are not that important
+            - this is also mostly for english speaking kids, since function morphemes are not that important
             - not true in other languages (Turkish)
+
+STUDY: morphemes help understanding
+    - 23-28 month olds were given pictures of common objects
+    - then heard synthesized sentence asking them to find/show/point to a particular one
+    - sentence was varied in correctness
+        - grammatical: "find the <picture> for me"
+        - no morpheme: "find <picture> for me"
+        - ungrammatical: "find was <picture> for me"
+        - nonsense: "find gub <picture> for me"
+    - acurracy of child's response:
+        grammatical > no morpheme > ungrammatical > nonsense
+
+Mean Length of Utterance (MLU)
+    - 5 stages:
+        1. combine words
+        2. grammatical morphemes
+        3. questions vs sentences
+        4. complex sentences
+        5. more complexity
+    - better predictor of language maturity than age

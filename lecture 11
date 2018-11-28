@@ -1,9 +1,9 @@
 factors that influence the production of morphemes
 
-- similarity of form
+- similarity of (audible) form
     - e.g. ING always sounds the same 
     - S sounds different depending on which word its attached to (cat-s vs dog-s)
-- transparency of function
+- transparency of (semantic) function
     - ING only has one meaning
     - S might have more than one meaning
 - strength in fluent speech
@@ -20,27 +20,31 @@ factors that influence the production of morphemes
 
 - when do they learn about word order?
     - to test pure understanding of syntax alone, tests were done with real world knowledge removed
-    - STUDY: testing word order with known words  
-        - 16-18 months
+
+    - STUDY: test understanding of word order with known words  
+        - 16-18 month olds were shown 2 videos
+            - one where "cookie monster is hugging big bird"
+            - another where "big bird is hugging cookie monster"
+        - then asked "where is <A> hugging <B>?"
         - preferential looking paradigm with videos of the action 
-        - test understanding of word ordering 
-        - compare 
-            - "cookie monster is hugging big bird"
-            - "big bird is hugging cookie monster"
-    - STUDY: testing word order with words they don't know
+        - results: they look at the matching video
+
+    - STUDY: testing word order with unknown words
         - started testing 25, then 21 month olds 
         - same experiment, using nonsense verbs  
-        - 21 months old showed that they understood SVO order, even with missing Subject and nonsense verbs 
+        - 21 months old showed that they understood SVO order, even with missing subject and nonsense verbs 
+
     - STUDY: testing word order with different sentence structures 
         - structures:
             - Transitive: ex. John walks Bill
             - Intransitive: ex. John and Bill walks 
         - test both with real and nonsense verbs 
-        - by 28months, children can tel the difference between the 2 structures for both real and nonsense verbs 
+        - by 28months, children can tell the difference between the 2 structures for both real and nonsense verbs 
     
     - studies suggest that by 21 months, children understand how word order affects verbs in general 
     - by 28months, how sentence structure affects verbs in general 
 
+************************************************************************************************
     - a counter STUDY: production based, diary studies with tomasello's child 15-24 months 
         - found that certain verbs were only used with certain nouns
         - i.e. "break" was only used with "Mommy", "Daddy"
@@ -60,5 +64,7 @@ factors that influence the production of morphemes
             - children learn about verbs individually
             - no general understanding of verbs 
             - early syntactic knowledge is not abstract, it's item-based 
+            - item-based learning: when verbs are only used in the sentence types from which they are learnt
     
     => comprehension data conflicts with production data 
+************************************************************************************************
